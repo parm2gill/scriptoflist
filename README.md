@@ -1,7 +1,7 @@
 # Script by Gill
-## Script for checking status
+## Script for checking exam setup status
 
-I have written a script to check if the exam setup has begun for perticular koala or not. 
+This script is a remote operations helper that lets an L1 support engineer jump through a  (Local machine -> kproxy -> koala -> examserver), check the VMs, and display the exam system’s current state with clear visibility. 
 
 you can use this script as below. 
 1. Download the script in your local system.
